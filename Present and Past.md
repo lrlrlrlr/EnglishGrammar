@@ -13,6 +13,6 @@
 # 现在进行时和一般现在时的区别
 * `I always do` 和 `I'm always doing`的区别？
 * like/want/need/prefer/know/release/suppose/mean/understand/believe/remember/belong/fit/contain/consist/seem 通常不用现在进行时
-* `think`的用法
-  * 表`相信`或者`意见`的时候用一般进行时
-  * 表`考虑`的时候用现在进行时
+* `think`的用法  
+  * 表`相信`或者`意见`的时候用一般进行时  
+  * 表`考虑`的时候用现在进行时  
