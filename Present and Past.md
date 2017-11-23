@@ -26,4 +26,9 @@
 * 第一人称、第三人称单数使用**was** ， 第二人称及第三人称多数使用**were**；
 
 
-# 过去进行时
+# 过去进行时:
+* Past continuous (I was doing) == I was in the middle of doing something at a certain time.
+* 通常过去进行时句子里都有`when/while`，因为要表过去确切的某个时间：
+  * I was walking home when I met Dan. 
+  * Last night I droppbued a plate when I was doing the washing-up.
+* 有些动词`know/want`通常不使用过去进行时：I was enjoying the party, but Chris **wanted** to go home.
