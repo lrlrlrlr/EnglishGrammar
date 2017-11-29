@@ -30,7 +30,9 @@
 * Past continuous (I was doing) == I was in the **middle** of doing something at a certain time.
 * We often use **the past simple** and **the past continuous** together to say that something ***happened in the middle*** of something else.
 * 结合上点，通常过去进行时句子里都有`when/while`，因为要表过去确切的某个时间,e.g.：  
-  * I was walking home when I met Dan.
-  * Last night I droppbued a plate when I was doing the washing-up.
-* 如果要描述*某件事 发生在 过去的某件事发生之后*，则不能使用过去进行时（应使用过去一般时）：I was walking along the road when Isaw Dan. So Istopped, and we had a chat.
-* 有些动词`know/want`通常不使用过去进行时：I was enjoying the party, but Chris **wanted** to go home.
+  * I was walking home when I met Dan.  
+  * Last night I droppbued a plate when I was doing the washing-up.  
+* 如果要描述*某件事 发生在 过去的某件事发生之后*，则不能使用过去进行时（应使用过去一般时）.
+  * e.g.:I was walking along the road when Isaw Dan. So Istopped, and we had a chat.
+* 有些动词`know/want`通常不使用过去进行时.
+  * e.g.:I was enjoying the party, but Chris **wanted** to go home.
