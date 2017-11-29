@@ -5,3 +5,7 @@
 * `gone(to)`和`been(to)`的区别：
     * James is on holiday. He **has gone to** Italy. (== he is there now or on his way there)
     * Jane is back home now. She **has been to** Italy. (== she has now come back)
+* Use the present perfect with **just**/**already**/**yet**:
+   * just : a short time ago
+   * already : happen sooner than expected ,表“已经”
+   * yet：==until now ,仅用于疑问句和否定句
