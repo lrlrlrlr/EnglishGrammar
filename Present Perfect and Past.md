@@ -9,3 +9,4 @@
    * just : a short time ago
    * already : happen sooner than expected ,表“已经”
    * yet：==until now ,仅用于疑问句和否定句
+* 现在完成时和一般现在时通常可以通用： `Have you had a holiday this year? == Did you have a holiday this year?`
