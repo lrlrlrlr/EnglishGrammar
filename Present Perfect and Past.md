@@ -9,4 +9,6 @@
    * just : a short time ago
    * already : happen sooner than expected ,表“已经”
    * yet：==until now ,仅用于疑问句和否定句
+* **It's the (first) time** sth has happen... : 表第n次发生某事通常都用现在完成时
 * 现在完成时和一般现在时通常可以通用： `Have you had a holiday this year? == Did you have a holiday this year?`
+   * `现在完成时 Have you had lunch?` 与 `一般过去时 Did you have lunch?` 意思差不多，但是Have you通常是表近一段时间（比如问今晚吃了吗），有一种“你饿了吗”的意思在里面； 而Did you则通常是用来问一些比较远的时间（比如昨天你吃了吗），与现在关联不大。
