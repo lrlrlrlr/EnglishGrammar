@@ -17,5 +17,7 @@
 * `It has been raining.` -- An activity that has recently stopped or just stopped, and **there is a connection with now**.
 *  常用于`how long....? --It's xx for n hours / since xxx.` : 代表某件事现在仍在发生，或者刚刚结束。
 
-# 现在完成时和现在完成进行时的区别：（I have been doing and I have done）
-
+# 现在完成时和现在完成进行时的区别（I have been doing and I have done）：
+* 
+* 
+* 
