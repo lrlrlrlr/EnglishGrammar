@@ -15,9 +15,24 @@
 
 # Present perfect continuous (I have been doing)
 * `It has been raining.` -- An activity that has recently stopped or just stopped, and **there is a connection with now**.
-*  常用于**问某事发生了多久**`how long....? --It's xx for n hours / since xxx.` : 代表某件事现在仍在发生，或者刚刚结束。
+*  常用于**表示、问：某事发生了多久**`how long....? --It's xx for n hours / since xxx.` : 代表某件事现在仍在发生，或者刚刚结束。
 
 # 现在完成时和现在完成进行时的区别（I have been doing and I have done）：
-* 
-* 
-* 
+*  I've been doing sth. == 我刚刚在干这件事，可能干完了，也可能没干完，现在还在干；强调的是这个**动作**。
+*  I've done sth. == 我之前干完这件事了；强调的是**结果**。
+* 通常用I've been doing sth来描述**How long**:
+   * How long have you been reading that book?
+   * They have been playing tennis since 2 o'clock.
+* 通常用I've done sth描述**How much/How many/How many times**:
+   * How much of that book have you read?
+   * Lisa is writing emails. She has sent a lot of emails this morning.
+   * They have played tennis three times this week.
+*  Have you been playing tennis? == Have you ever played tennis?
+* **know/like/believe**通常不适用I've been doing:
+   * I have known (not I have been knowing)
+   * How long have you hading that camera? ( not have you been having)
+
+
+   
+
+
