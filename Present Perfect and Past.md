@@ -37,6 +37,9 @@
 * 如需要表从什么时候就没干过某事了：I haven't done sth since/for ...
 	* I haven't seen Tom since Monday. (== Monday was the last day I saw him.)
 	* She hasn't phoned for ages. (== the last time she phoned was ages ago.)
-	
-	
+* How long have you had .. 与  How long have you been having .. 的区别：
+	* You would use "had" for a possession or other permanent object like the camera in your example. 表示拥有某物通常用`have..had`.
+	* You would use "been having" for events (especially a series of events) or other duration-based things
+		* How long have you been having these parties?
+		* How long have you been having these symptoms?
 
