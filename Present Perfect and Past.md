@@ -30,9 +30,13 @@
 *  Have you been playing tennis? == Have you ever played tennis?
 * **know/like/believe**通常不适用I've been doing:
    * I have known (not I have been knowing)
-   * How long have you hading that camera? ( not have you been having)
-
-
-   
-
+   * How long have you hading that camera? ( not have you been having)
+* **live/work**通常两边都可以用
+	* She has been living here for a long time.
+	* She has lived here for a long time.
+* 如需要表从什么时候就没干过某事了：I haven't done sth since/for ...
+	* I haven't seen Tom since Monday. (== Monday was the last day I saw him.)
+	* She hasn't phoned for ages. (== the last time she phoned was ages ago.)
+	
+	
 
