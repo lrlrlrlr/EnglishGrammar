@@ -20,9 +20,10 @@
 # 现在完成时和现在完成进行时的区别（I have been doing and I have done）：
 *  I've been doing sth. == 我刚刚在干这件事，可能干完了，也可能没干完，现在还在干；强调的是这个**动作**。
 *  I've done sth. == 我之前干完这件事了；强调的是**结果**。
-* 通常用I've been doing sth来描述**How long**:
+* 通常用I've been doing sth来描述**How long** (但是也不是所有关于how long的都要用现在完成进行时，下面有几个例外）:
    * How long have you been reading that book?
    * They have been playing tennis since 2 o'clock.
+   * 如表示·多久没干某事·，则通常不用现在完成进行时（详见下面）
 * 通常用I've done sth描述**How much/How many/How many times**:
    * How much of that book have you read?
    * Lisa is writing emails. She has sent a lot of emails this morning.
@@ -34,7 +35,7 @@
 * **live/work**通常两边都可以用
 	* She has been living here for a long time.
 	* She has lived here for a long time.
-* 如需要表从什么时候就没干过某事了：I haven't done sth since/for ...
+* 通常使用 `I haven't done something since/for ..` 来表示我多久**没干某事**了。（而不是 haven't been doing something..）
 	* I haven't seen Tom since Monday. (== Monday was the last day I saw him.)
 	* She hasn't phoned for ages. (== the last time she phoned was ages ago.)
 * How long have you had .. 与  How long have you been having .. 的区别：
@@ -43,3 +44,4 @@
 		* How long have you been having these parties?
 		* How long have you been having these symptoms?
 
+*
