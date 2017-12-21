@@ -1,2 +1,3 @@
+
 1. Have you ever travelled by boat?
 To be honest, I have only taken a boat just for a short boat ride and I have never travelled by boat. I suppose most of travellers including me, would choose to travel by train or plaane, which is more convenient and fast.
