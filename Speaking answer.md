@@ -24,7 +24,7 @@ Yes, we do. In China, we are facing a serious problem which is traffic jam. The 
 1. How often do you use computer?
 I use computer almost every day, sometimes for study/work, sometimes just for fun, such as playing games and watching videos. I suppose computer already became one of necessities of life, especially for the young generation.
 
-2.What kinds of computers are popular in China?
+2. What kinds of computers are popular in China?
 Well, in China, most people use desktop and laptop together since both of them have their own advantages. A desktop usually used at home or office and it has better expansibility, while a laptop is often for personal use and it is more convenient to carry with.
 
 3. What do you usually use your computer for?
