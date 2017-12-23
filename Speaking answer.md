@@ -28,10 +28,10 @@ I use computer almost every day, sometimes for study/work, sometimes just for fu
 Well, in China, most people use desktop and laptop together since both of them have their own advantages. A desktop usually used at home or office and it has better expansibility, while a laptop is often for personal use and it is more convenient to carry with.
 
 3. What do you usually use your computer for?
-I usually use computer to dealing with the things are related to my work, you know, things like writing report, sending emails to colleagues and making PowerPoint for presentation. Sometimes, I play games or watch videos to release stress from work.
+I usually use computer to dealing with the things are related to my work, you know, things like writing reports, sending emails to colleagues and making PowerPoint for presentation. Sometimes, I play games or watch videos to release stress from work.
 
 4. Who taught you how to use a computer?
-I remember it was my dad who taught me how to use computer. When I was a little, he taugh me how to type by playing some typing games with me. After I went to elementary school, I had computer class so I learned more about computer then.
+I remember it was my dad who taught me how to use computer. When I was a little, he taught me how to type by playing some typing games with me. After I went to elementary school, I had computer class so I learned more about computer then.
 
 5. Do you think computers have changed your life a lot?
-Definitely! I could say I cannot live without computer now. Computer truly broght convenience to us from study to work, from office time to leisure time. Our life would be totally different if there's no computer.
+Definitely! I could say I cannot live without computer now. Computer truly brought convenience to us from study to work, from office time to leisure time. Our life would be totally different if there's no computer.
