@@ -35,3 +35,26 @@ I remember it was my dad who taught me how to use computer. When I was a little,
 
 5. Do you think computers have changed your life a lot?
 Definitely! I could say I cannot live without computer now. Computer truly brought convenience to us from study to work, from office time to leisure time. Our life would be totally different if there's no computer.
+
+
+# Email
+1. Do you write many emails?
+I do write emails but not that many, only when I have to send report to my boss. For other things that are less formal, I often communicate by cellphone or social media like Wechat, it's more convenient for both of us.  
+
+2. How often do you write an email?
+Almost several times a week, just like I mentioned before, I write emails when I have to send report to my boss. I don't have that many things must be done by email through.  
+
+3. What are the differences between emails and letters?
+Well, first is about the efficiency, emails absolutely run faster than letters so when we are doing some business, we always use emails to catch up with time. However, letters have more things to do with emotions and it's a good way to communicate with friends and families by letters.  
+
+4. What kinds of email do you think are the hardest to write?
+I suppose the hardest email would relate to self-introduction. You know, sometimes when we apply for a school or for a job, it is necessary to give a self-introduction by email. It is hard to let people know you well only through an email.  
+ 
+5. How do you feel when you receive emails?
+ To be honest, I always feel a little bit nervous when I receive emails, I know it sounds weird but I really do. Maybe because I don't know what's inside of the email before I click it and people often get scared of the unknown things.
+
+6. What kinds of emails do you receive that make you feel excited?
+Of course are those emails that contain good news. For me and also for most of students who are taking this exam, I believe the answer would be a school offer because that's what I am fighting for. 
+
+7. How do you communicate with others at work-by emails or is it more convenient?
+When talking about things that are official or formal, an email is a good choice since emails could contain more detailed information and more clearly to be understood. Except for this, I would choose to use cellphone.
