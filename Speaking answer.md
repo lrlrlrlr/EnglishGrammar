@@ -58,3 +58,20 @@ Of course are those emails that contain good news. For me and also for most of s
 
 7. How do you communicate with others at work-by emails or is it more convenient?
 When talking about things that are official or formal, an email is a good choice since emails could contain more detailed information and more clearly to be understood. Except for this, I would choose to use cellphone.
+
+
+# Family    
+1. How often do you meet with your family?    
+The city I am living now is not my hometown, I can only go back to meet my family on holidays maybe once a few months. However, I always talk with my family through the webcam and sometimes I really miss them.    
+
+2. How do you spend the time with your family?    
+Just like normal families, we do most of things together, such as watching TV, cooking, playing games, or just have a short conversation, nothing special. On weekends, we often drive to a nearby countryside and enjoy sunlight and breeze.    
+
+3. Do you want to live with your family in the future?
+ After I get married, then my answer would be no. We need to be more independent and take care of our nuclear family. However, after my parents are growing old and I will live with them and take care of them, it's our responsibility.    
+
+4. Are you close to all of your family members?    
+Not all of them, but most of them. Chinese have close family relationships and we tend to live as one big family. Therefore, I am close to most of my family members, except for those who are living in other cities.    
+
+5. How has your family influenced you?    
+I got influenced by my parents most since we have been living together for so many years. They not only taught me the knowledge I need, but also helped me to form a good personality. I have learnt a lot from them.
