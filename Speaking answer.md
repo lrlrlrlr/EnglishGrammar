@@ -18,3 +18,20 @@ Well, that's an interesting question. I started to take a bus ever since I could
 Yes, I think bus still is the most common way for citizens because of the completed public transportation system. Sometimes the destination is far away and it will take us more than an hour to get there, but we still could get everywhere in the city by bus. I'd say it is really convenient for us.
 4. Do people in your country take the bus?
 Yes, we do. In China, we are facing a serious problem which is traffic jam. The number of private cars has been expanding significantly and occupied large social resources. Taking the bus helps to relieve the traffic congestion and good for the environment, too.
+
+
+# Computer
+1. How often do you use computer?
+I use computer almost every day, sometimes for study/work, sometimes just for fun, such as playing games and watching videos. I suppose computer already became one of necessities of life, especially for the young generation.
+
+2.What kinds of computers are popular in China?
+Well, in China, most people use desktop and laptop together since both of them have their own advantages. A desktop usually used at home or office and it has better expansibility, while a laptop is often for personal use and it is more convenient to carry with.
+
+3. What do you usually use your computer for?
+I usually use computer to dealing with the things are related to my work, you know, things like writing report, sending emails to colleagues and making PowerPoint for presentation. Sometimes, I play games or watch videos to release stress from work.
+
+4. Who taught you how to use a computer?
+I remember it was my dad who taught me how to use computer. When I was a little, he taugh me how to type by playing some typing games with me. After I went to elementary school, I had computer class so I learned more about computer then.
+
+5. Do you think computers have changed your life a lot?
+Definitely! I could say I cannot live without computer now. Computer truly broght convenience to us from study to work, from office time to leisure time. Our life would be totally different if there's no computer.
