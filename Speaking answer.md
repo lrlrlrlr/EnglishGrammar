@@ -75,3 +75,20 @@ Not all of them, but most of them. Chinese have close family relationships and w
 
 5. How has your family influenced you?    
 I got influenced by my parents most since we have been living together for so many years. They not only taught me the knowledge I need, but also helped me to form a good personality. I have learnt a lot from them.
+
+
+# Friends
+1. Do you remember your friends in primary school? Why?    
+Yes, I do remember some of them. Actually, we lost contact for a few years but after we all got our own cellphones, we found each other through social media and still keep in touch now. Childhood friendship is pure and precious and I will remember it forever.    
+
+2. What do you do with friends?    
+It is necessary to get together with friends and I always hang out with my friends just for fun. We watch movies, play games, you know, just some normal things. However, staying with friends always makes me feel happy and free, I don't have to think that much and just be who I am.    
+
+3.  How do you make friends?     
+I just share my interests with them and find a common topic between us, so that we have something to talk about. Most of my friends are from my work, because I am busy with work and I don't have much time or chance to meet people from other places.    
+
+4. Do you have many friends?    
+Actually, not that many but I do have some close friends. Talking about friends, I think the quality counts more than quantity. I don't need too many friends, but I need someone who could be with me when I am upset, it means a lot to me.    
+
+5. Do you like chatting with friends online?    
+Yes, I do, although chatting online doesn't feel as good as talking face to face, it still provides a convenient way to communicate with friends, especially for those who live in a different city. It makes the world smaller and helps us to keep in touch with old friends.
