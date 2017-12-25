@@ -110,3 +110,35 @@ My high school occupies a large space. We got two teaching building with one off
 5. What happened on your first day of high school?
 I can't remember it clearly. I was really nervous to meet new classmates and we all lined up and waited for our teacher to tell us where to sit. Everyone looked very shy since it was the first time we met, it was an excellent day.
 
+
+# Magazine
+1. Do you read magazines?
+Yes but not that often, I like reading magazines since magazines contain more types of information. Also, the pictures and layout are more attractive when compared with other publications.
+
+2. Do younger people or older people prefer to read magazine?
+I suppose younger people prefer to read magazines when compared with older generation. Older people tend to like those publications with simpler layout such as newspaper, while younger generation is more easily attracted by magazines.
+
+3. Have you ever read online magazines?
+Yes, I have, since the Internet has a better speed and some magazines applications provide better customer experience. Nowadays, we don't have to go to a bookstore and send money to get a printed magazine.
+
+4. Did you read magazines when you were young?
+Of course, I don't remember exactly when, but I think it was during my kindergarten time right after I learned how to read. Back to that time, my dad always read magazines and he taught me a lot of characters by reading magazines.
+
+5. What kinds of magazines are popular in your country?
+In China, I think there are two kinds of popular magazines. One is literary magazine, these magazines are welcomed by students, teachers, and some of the older people. The other is fashion magazine that attracts younger people, especially girls.
+
+# Names
+1. Do you like your name?
+Of course, I like my names. It was given by my grandpa. I heard that he looked through all kinds of dictionaries to search for those characters with great implied meanings. To me, the name is not only a symbol but also contains family's blessing.
+
+2. Does your name have any special meaning?
+Yes, everyone's name has a special meaning. My given name is RUI, which means clever and healthy. I think it's a wonderful blessing for me.
+
+3. What kinds of names are popular in China?
+In China, popular names always reflect the characteristics of times. For example, the time when my grandpa was born, the popular names are related to revolution. As for my parents, names about country are popular because it was around the founding of PRC. And for now, parents are likely to give romantic and personalized names.
+
+4. Are there many Chinese people who have the same name as you?
+Yes, my name is short, it means that I have more possibilities to have the same name with others. Even a famous TV presenter has the same name as me. It always makes me confused when people are calling our names though.
+
+5. Is there any tradition about naming babies?
+In China, we do have some traditions when naming a baby. The most important one is we avoid using the character that our older family members are using. It shows our respect to them.
