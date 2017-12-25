@@ -92,3 +92,21 @@ Actually, not that many but I do have some close friends. Talking about friends,
 
 5. Do you like chatting with friends online?    
 Yes, I do, although chatting online doesn't feel as good as talking face to face, it still provides a convenient way to communicate with friends, especially for those who live in a different city. It makes the world smaller and helps us to keep in touch with old friends.
+
+# High school
+1. Do you like your high school?
+Yes, I do and I could say that was the best time I had in my life. Life in high school was simple, although we have to prepare for the College Entrance Examination, we didn't have to worry about other things. My teachers were really nice and every time when I looked back, I wish I could go back to high school life.
+
+2. Which subject do you like most? and dislike?
+My favourite subject was math, actually I didn't like math in the begining, however, I was so lucky to have a great math teacher, and he was patient and humorous. He didn't giver up on me and told me a lot of interesting stories that are related to math. It inspired me and then I really like math and did quite well on it.
+Among all the subject, I don't like chemistry. It's just too complicated for me, I had to memorize plenty of chemical element symbols and understand a large number of chemical equations. To me, they all looked like the same and I really don't like it.
+
+3. Do you still contact your friends in high school?
+Yes, of course. We promised to arrange a class reunion at least once a year so that we could keep our friendship for a long time. It was great to spend several years with them in high school.
+
+4. What is your high school like?
+My high school occupies a large space. We got two teaching building with one office building. Since some students are resident students, our school has two dormitory buildings. Besides, there are track-and-field ground, canteen, and art centre. My school provides great facilities for students.
+
+5. What happened on your first day of high school?
+I can't remember it clearly. I was really nervous to meet new classmates and we all lined up and waited for our teacher to tell us where to sit. Everyone looked very shy since it was the first time we met, it was an excellent day.
+
