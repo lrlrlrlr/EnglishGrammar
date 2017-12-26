@@ -142,3 +142,23 @@ Yes, my name is short, it means that I have more possibilities to have the same 
 
 5. Is there any tradition about naming babies?
 In China, we do have some traditions when naming a baby. The most important one is we avoid using the character that our older family members are using. It shows our respect to them.
+
+
+# Your studies
+1. What subject are you studying?
+My major is data science, so the subjects I'm studying now are basically related to my major. It is really useful and practical. I hope I could have a chance to go abroad and have further study about my major.
+
+2. Is it very interesting?
+Yes, it is very interesting and I always feel good when I'm working with numbers. This major provides a practical skill that could help me make a living. I will definitely keep my interesting and passion on this major.
+
+3. Do many students in your country study that subject?
+Actually, I should say yes and especially for this years. Because the data science can teach the students of abilities of programming and statistic, which is easy to find a job with high salary.
+
+4. Which university do you attend?
+The school I'm attending now is the University of Sydney, which is my dream school, my friend also attended this school and he told me how great the facilities are and how nice the teachers are. I felt so lucky when I knew I could attend my dream school.
+
+5. What do you plan to do after you finish your studies?
+Well, after I finish my studies, I would like to take a gap year to travel or to find an internship. To be honest, haven't decided what I'm gonna do as my future career yet, so I need time to find out. But I have to talk through this with my parents first.
+
+6. Are you looking forward to working?
+Maybe not, I'm quite enjoying my student life and still not ready to step into the society yet. After all, being a student is freer and less stressful. I just have to study for my exams and it feels awesome to get new knowledge every day. So I like being a student.
