@@ -162,3 +162,20 @@ Well, after I finish my studies, I would like to take a gap year to travel or to
 
 6. Are you looking forward to working?
 Maybe not, I'm quite enjoying my student life and still not ready to step into the society yet. After all, being a student is freer and less stressful. I just have to study for my exams and it feels awesome to get new knowledge every day. So I like being a student.
+
+# Your work
+1. What work do you do?
+Actually, I'm a data analyst. I could say that I really love my job and basically spend most of my time working. My job gives me a great feeling of satisfaction because I could use that what I've learned at school and really do something to help my team and make a living.
+
+2. Do you like your job?Is it very interesting?
+Yes, of course. Being a data analyst became one of my dreams since I was a high school student.My job is very interesting. I could still get new knowledge from working and every day I have a chance to meet a lot of different people and my colleagues are really nice, which made my life more interesting.
+
+3. Why did you choose to do that kind of work?
+There are several reasons. The most important one is I could put what I learned from school into real practice, it was exactly what I studied for. And it also because of my family, both my parents supported me to choose this job for their own reasons and of course, I'm interested in it and I have full passion to do my job.
+
+4. Will you continue doing this job in the future?
+Yes, definitely I will. First, just like what I have mentioned before that I like my job and it brings me satisfaction every day. Also, my job could provide me a stable life so which means I don't have to worry about the unemployment. I will continue doing my job and try to perform better.
+
+5.What are your responsibilities at work?
+As a data analyst, the most important thing I need to do is to translate the number to take the data and use it to help companies make better business decisions. And then, I should be responsible for my team. I always try my best to help my teammates.
+
