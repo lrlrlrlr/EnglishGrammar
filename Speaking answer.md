@@ -179,3 +179,73 @@ Yes, definitely I will. First, just like what I have mentioned before that I lik
 5.What are your responsibilities at work?
 As a data analyst, the most important thing I need to do is to translate the number to take the data and use it to help companies make better business decisions. And then, I should be responsible for my team. I always try my best to help my teammates.
 
+
+# Hometown
+1. What's the name of your hometown?
+My hometown is Hunan, it's located in the middle of China, and known for its spicy foods.Everybody in there loves the spicy food.
+
+2. Is that a big city or a small place?
+It's a small place with quiet environment and most people know each other in this place.
+
+3. Please describe your hometown a little.
+My hometown is located in middle of China with small population. The weather is always great, we have a lot of sunny days and there are trees everywhere, I should say it is a perfect place to live because the city gives you many opportunities and at the same time, not that much stress.
+
+4. How long have you been living there?
+I have been living there since I was born. In my memory, very important thing that happened in my life was related to this place. So it's a place filling full of my memories.
+
+5. Do you like it?
+Yes, I love my hometown and I think most of people feel the same as me. It is a place that contains all of my childhood memories. Firstly, there are so many delicious foods. Secondly, the weather is good here. Finally, the people are friendly. So I could say I just love every thing of my hometown.
+
+
+# Home
+1. Can you describe the place where you live?
+I live in a big community which provides great facilities. There are gym,  swimming pool, kindergarten and elementary school in our community. Also with some convenience stores that we could buy daily supplies. I could do most of thins without step out of our community.
+
+2. How long have you lived there?
+I have lived there since 2014, in another word, I live in there 4 years now. Due to the perfect and convenient facilities, I suppose I will live in there for next few years. 
+
+3. Who do you live with?
+Me, myself and I.  Okay, I'm just kidding.  I live alone. It's boring to stay at home, so I always hang out with my friends on weekends.  Sometimes I'm wondering if I should move to live with my family or friends.
+
+4. Do you plan to live there for a long time?
+Maybe not, although the place I am living now is very convenient that has great facilities and I find easy to go to work but I'm trying to apply a coursework of Australia university these days, so I will go to Australia when I get an offer.
+
+5. Do you prefer living in a house or a flat? In the future, what type of place would you like to live in?
+I prefer living in a flat in the future, and it would be better if my parents and friends live in the same building with me. I think flat is safer because there are neighbours who are living in the same floor with me, so I prefer living in a flat. 
+
+
+# Transportation
+1. How did you come here today?
+I came here by bus today because where I live is not really far from here. It took me about half an hour to get here on time and luckily I didn't suffer in the traffic jam.
+
+2. Why did you choose that form of transport?
+First, since today is a special day that I cannot be late or absent, so the time is what I considered at first. There's no doubt that taxi is the most convenient way among all public transportations, so I chose to come here by taxi.
+
+3. What form of transport do you usually use?
+I personally prefer public transportation, such as bus or metro. I suppose there is a universal problem in China nowadays, which is traffic jam. It's a waste of time if you get stuck on the road. Therefore, I usually take bus and metro.
+
+4. Do you usually take the bus?
+Yes, I take the bus almost every day. It is really convenient for us to take a bus to everywhere we want, I admit that public transportation has been developed really well these days.
+
+5. Is it convenient to take a bus or city in your city?
+Yes, I think bus and taxi still are the most common ways for citizens because of the completed public transportation system. Sometimes the destination is far away and will take us more than an hour to get there, but we still could get everywhere in the city by buy. I'd say it really convenient for us to take a bus or taxi.
+
+6. Is driving to work popular in your country?
+It used to be popular, but not today. Since more and more people have the awareness to protect the environment, also due to the horrible traffic jams in the big city, most of commuters choose to go to work by taking the public transportation.
+
+
+# Rainy days
+1. Does it rain much in China?(Where? When?)
+Some regions of China rain a lot, like the south of China and some coastal regions. These places belong to Subtropical monsoon climate and always rain a lot from June to July. We call it plum rains and people always feel moist.
+
+2. Is there any part of China where it doesn't rain much?
+I should say in the northwest region, those places belong te Temperate continental climate and always draughty. Some of the biggest deserts are located here such as Tengger Desert.
+
+3. When (in what month or season) does it rains most in your hometown?
+In my hometown, it rain s most in summer. The rain in summer is different when compared with other seasons. We always got heavy rains in summer. Therefore, sometimes it caused waterlogging in my hometown.
+
+4. In which season does it rain most in other parts of China?
+I suppose the answer would be summer, too. You know China is located in subtropics, therefore when it comes summer, we get monsoon from the sea that could bring a lot of rain to us.
+
+5. Can you remember any time when it rained particularly heavily in your hometown?
+If my memory servers me right, that was about 5 years ago and the weather in that year was really weird. We got all kinds of extreme weather, and on a summer day, it rained heavily and the precipitation was record-breaking. I remember I waded back to home.
